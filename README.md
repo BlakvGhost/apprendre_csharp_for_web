@@ -1,1 +1,1 @@
-# ConsoleApp1
+# Project for learning CSharp dotnet for Web
